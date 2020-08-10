@@ -1,0 +1,9 @@
+C:\Users\marti\source\repos\WebApplication3\AspCoreTemplate.DAL\bin\Debug\netcoreapp2.1\AspCoreTemplate.DAL.deps.json
+C:\Users\marti\source\repos\WebApplication3\AspCoreTemplate.DAL\bin\Debug\netcoreapp2.1\AspCoreTemplate.DAL.dll
+C:\Users\marti\source\repos\WebApplication3\AspCoreTemplate.DAL\obj\Debug\netcoreapp2.1\AspCoreTemplate.DAL.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\WebApplication3\AspCoreTemplate.DAL\obj\Debug\netcoreapp2.1\AspCoreTemplate.DAL.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\WebApplication3\AspCoreTemplate.DAL\obj\Debug\netcoreapp2.1\AspCoreTemplate.DAL.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\WebApplication3\AspCoreTemplate.DAL\obj\Debug\netcoreapp2.1\AspCoreTemplate.DAL.AssemblyInfo.cs
+C:\Users\marti\source\repos\WebApplication3\AspCoreTemplate.DAL\bin\Debug\netcoreapp2.1\AspCoreTemplate.DAL.pdb
+C:\Users\marti\source\repos\WebApplication3\AspCoreTemplate.DAL\obj\Debug\netcoreapp2.1\AspCoreTemplate.DAL.dll
+C:\Users\marti\source\repos\WebApplication3\AspCoreTemplate.DAL\obj\Debug\netcoreapp2.1\AspCoreTemplate.DAL.pdb
